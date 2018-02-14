@@ -1,6 +1,6 @@
 # Quasar Todo App by Nathan Gaul
 
-Demo located at 
+Demo located at [https://infining.github.io/quasar-todo-app/](https://infining.github.io/quasar-todo-app/)
 
 ## Build Setup
 
